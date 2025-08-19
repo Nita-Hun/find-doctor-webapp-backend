@@ -1,0 +1,12 @@
+/target
+*.log
+*.iml
+.idea/
+*.class
+
+application.properties
+
+
+
+
+
